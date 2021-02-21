@@ -3,8 +3,8 @@
 [Click to view my resume](https://github.com/dkshkb/dkshkb.github.io/blob/main/Yuhao%20Chen%202_21_2021.pdf)
 
 ## Yuhao Chen
-![](yuhao_chen.JPG)
-computer science\
+![](yuhao_chen.JPG = 20*20)
+Computer Science\
 Undergraduate Student, Syracuse University\
 School Email： ychen436@syr.edu\
 Personal Email：dkshkb@gmail.com
