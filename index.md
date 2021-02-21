@@ -5,7 +5,8 @@
 ## Yuhao Chen
 <img src="yuhao_chen.JPG" alt="yuhao" width="200"/>
 
-Computer Science\
+
+Major: Computer Science\
 Undergraduate Student, Syracuse University\
 School Email： ychen436@syr.edu\
 Personal Email：dkshkb@gmail.com
