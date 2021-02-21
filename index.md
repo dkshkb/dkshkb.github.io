@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Yuhao Chen's personal website
+
+[Click to view my resume](https://github.com/dkshkb/dkshkb.github.io/blob/main/Yuhao%20Chen%202_15_2021.pdf)
 
 You can use the [editor on GitHub](https://github.com/dkshkb/dkshkb.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
