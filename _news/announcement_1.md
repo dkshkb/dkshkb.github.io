@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: Yuhao Chen's website is live now.
+date: 2024-03-26 14:00:00-0000
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement.
+Today is the first day of my website. I will be constantly adding more content.
