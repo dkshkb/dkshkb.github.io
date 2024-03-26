@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dkshkb.github.io/sitemap.xml
+Sitemap: https://www.yuhaochen.com/sitemap.xml
