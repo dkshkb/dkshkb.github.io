@@ -10,6 +10,10 @@ related_posts: false
 related_publications: false
 pretty_table: true
 ---
+| ![wayfair-1](/assets/img/wayfair-1.jpeg) | ![wayfair-2](/assets/img/wayfair-2.jpeg) |
+|:---:|:---:|
+
+
 I recently had the opportunity to attend the **Q&A Session with Steve Conine ’95**, where Steve, co-founder and co-chairman of Wayfair, shared his journey in the retail industry. His insights touched on customer focus, leadership, efficient time management, and the role of technology.  
 
 ## Key Takeaways  
